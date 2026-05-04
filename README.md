@@ -9,22 +9,13 @@
 💙 Apaixonada por tecnologia e criação de interfaces<br>
 🌱 Estudando Ciências da computação na FAM<br>
 🚀 Em constante aprendizado<br>
-🎯 Foco: me tornar uma dev full stack
+🎯 Foco: me tornar uma Cientista de Dados
 </p>
 
 <h2 align="center" style="color:#1E3A8A;">⚙️ Tecnologias</h2>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,sql,nodejs,python,git,github" />
-</p>
-<h2 align="center" style="color:#1E3A8A;">📊 GitHub Stats</h2>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=camillelily&show_icons=true&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=camillelily&theme=tokyonight&hide_border=true" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,python,git,github" />
 </p>
 
 <h2 align="center" style="color:#1E3A8A;">🌊 Estilo Azul Profundo</h2>
