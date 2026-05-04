@@ -31,7 +31,7 @@
 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,c" />
 </p>
 
 <p align="center">
