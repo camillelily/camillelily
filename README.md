@@ -17,29 +17,8 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,python,git,github" />
 </p>
-
-<h2 align="center" style="color:#1E3A8A;">🌊 Estilo Azul Profundo</h2>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/FOCUS-CODE-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" />
-  <img src="https://img.shields.io/badge/STYLE-DEEP%20BLUE-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING-EVERY%20DAY-2563EB?style=for-the-badge" />
-</p>
-
-<h2 align="center" style="color:#1E3A8A;">🌌 Animação de contribuições</h2>
-
-<p align="center">
-  <img src="https://github.com/camillelily/camillelily/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-<h2 align="center" style="color:#1E3A8A;">💙 Frase</h2>
-
 <p> Obrigada por visitar meu perfil
 </p>
-
----
 
 <p align="center">
 ✨ Obrigada por visitar meu perfil ✨
