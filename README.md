@@ -1,29 +1,31 @@
-<h1 align="center" style="color:#1E3A8A;">
-  Olá, eu sou a Camille Lily 👋
-</h1>
-
-<p align="center" style="color:#60A5FA;">
-  💙 Desenvolvedora em evolução | 🌊 Foco em tecnologia | 🚀 Criando soluções com código
+<!-- HEADER ANIMADO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=30&center=true&vCenter=true&width=700&lines=Olá,+eu+sou+a+Camille+Lily+👋;Tenho+sua+idade+anos;Desenvolvedora+em+evolução;Bem-vinda+ao+meu+GitHub+💙" />
 </p>
 
 ---
 
-## 🌌 Sobre mim
-- 🔭 Atualmente explorando projetos pessoais e web development
-- 🌱 Aprendendo: JavaScript, Python e React
-- 💡 Interessada em UI/UX e automações inteligentes
-- 🎯 Objetivo: evoluir como desenvolvedora full stack
+<h2 align="center" style="color:#1E3A8A;">🌊 Sobre mim</h2>
+
+<p align="center">
+💙 Apaixonada por tecnologia e criação de interfaces modernas<br>
+🌱 Estudando JavaScript, Python e React<br>
+🚀 Em constante evolução como desenvolvedora<br>
+🎯 Foco: me tornar uma dev full stack
+</p>
 
 ---
 
-## ⚙️ Tecnologias
+<h2 align="center" style="color:#1E3A8A;">⚙️ Tecnologias</h2>
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<h2 align="center" style="color:#1E3A8A;">📊 GitHub Stats</h2>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=camillelily&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
@@ -34,28 +36,32 @@
 
 ---
 
-## 🌊 Estilo visual (azul profundo)
+<h2 align="center" style="color:#1E3A8A;">🌊 Estilo Azul Profundo</h2>
+
 <p align="center">
   <img src="https://img.shields.io/badge/FOCUS-CODE-0F172A?style=for-the-badge&logo=github&logoColor=60A5FA" />
   <img src="https://img.shields.io/badge/STYLE-DEEP%20BLUE-1E3A8A?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LEARNING-EVERY%20DAY-2563EB?style=for-the-badge" />
 </p>
 
 ---
 
-## 🌐 Redes
+<h2 align="center" style="color:#1E3A8A;">🌌 Animação de contribuições</h2>
+
 <p align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-1E3A8A?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://instagram.com">
-    <img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+  <img src="https://github.com/camillelily/camillelily/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 💙 Nota final
-> “Código é arte em movimento.”
+<h2 align="center" style="color:#1E3A8A;">💙 Frase</h2>
 
-✨ Obrigada por visitar meu perfil!
+<p align="center">
+  <i>"Código não é só lógica, é criatividade em movimento."</i>
+</p>
+
+---
+
+<p align="center">
+✨ Obrigada por visitar meu perfil ✨
+</p>
