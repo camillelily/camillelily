@@ -16,6 +16,18 @@ Sobre mim
 🎯 Foco: Ciêntista de Dados.
 </p>
 
+<p align="center">
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/camille-oliveira-arruda?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="mailto:camilleoliveiraarruda@gmail.com">
+    <img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
 Tecnologias
 
 <p align="center">
