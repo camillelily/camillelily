@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=30&center=true&vCenter=true&width=700&lines=Oi,+me+chamo+Camille+Oliveira;Tenho+20+anos;Sou+de+São+Paulo,+Brasil;Bem-vindos+ao+meu+GitHub+💙" />
 </p>
-🌊 Sobre mim
+<p align="center"> Sobre mim /p>
 
 <p align="center">
 💙 Apaixonada por tecnologia e criação de interfaces<br>
@@ -14,7 +14,7 @@
 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,mysql" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,python,git,github,mysql" />
 </p>
 
 <p align="center">
