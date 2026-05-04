@@ -1,25 +1,32 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=30&center=true&vCenter=true&width=700&lines=Oi,+meu+nome +é+Camille+Oliveira;Tenho+20+anos;Moro+em+São+Paulo+Brasil;Bem-vindos+ao+meu+GitHub+💙" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=2563EB&size=30&center=true&vCenter=true&width=700&lines=Oi,+me+chamo+Camille+Oliveira;Tenho+20+anos;Sou+de+São+Paulo,+Brasil;Bem-vindos+ao+meu+GitHub+💙" />
 </p>
-
-<h2 align="center" style="color:#1E3A8A;"> Sobre mim</h2>
+🌊 Sobre mim
 
 <p align="center">
 💙 Apaixonada por tecnologia e criação de interfaces<br>
-🌱 Estudando Ciências da computação na FAM<br>
-🚀 Em constante aprendizado<br>
-🎯 Foco: me tornar uma Cientista de Dados
+🌱 Estudante de Ciência da Computação na FAM<br>
+🚀 Sempre aprendendo e evoluindo<br>
+🎯 Foco: Ciência de Dados e desenvolvimento
 </p>
 
-<h2 align="center" style="color:#1E3A8A;">⚙️ Tecnologias</h2>
+Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,c,nodejs,python,git,github" />
-</p>
-<p> Obrigada por visitar meu perfil
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,python,git,github,mysql" />
 </p>
 
 <p align="center">
-✨ Obrigada por visitar meu perfil ✨
+Banco de dados: SQL / MySQL
+</p>
+
+## 🌊 Estilo do perfil
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:2563EB&height=120&section=footer"/>
+</p>
+
+<p align="center">
+💙 Obrigada por visitar meu perfil 💙
 </p>
